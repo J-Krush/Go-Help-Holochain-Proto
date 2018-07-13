@@ -3,18 +3,17 @@
     "UUID": "28686b9f-8651-11e8-a00e-8c859090ae30",
     "Name": "go-help-proto",
     "Properties": {
-        "description": "provides an application template",
+        "description": "Prototype of the Go Help application",
         "language": "en"
     },
     "PropertiesSchemaFile": "properties_schema.json",
-    "BasedOn": "",
     "RequiresVersion": 26,
     "DHTConfig": {
         "HashType": "sha2-256",
         "RedundancyFactor": 0
     },
     "Progenitor": {
-        "Identity": "",
+        "Identity": "jkreish@gmail.com",
         "PubKey": null
     },
     "Zomes": [
