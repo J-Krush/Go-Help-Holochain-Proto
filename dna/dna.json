@@ -31,7 +31,7 @@
                     "DataFormat": "json",
                     "Schema": "",
                     "SchemaFile": "sampleEntry.json",
-                    "Sharing": "public"
+                    "Sharing": "private"
                 }
             ],
             "Functions": [
